@@ -1,0 +1,98 @@
+p {
+	color: green;
+	text-align: center;
+	size:5px;
+	font-family: sans-serif;
+}
+header {
+	 padding:10%;
+     margin:0;
+	color:#fff;
+	text-align:center;
+	font-family: Algerian;
+	background:url(img/bg.jpg);
+	display: block;
+	background-repeat: no-repeat;
+	background-size: 100%;
+}
+nav ul{
+ list-style-type: none;
+ padding: 0;
+ margin: 0;
+ }
+
+nav ul li {
+	float: left;
+}
+
+nav ul li a {
+	text-decoration: none;
+	color: white;
+	padding:12px 22px ;
+	background: #ffffff40;
+	display: block;
+	font-family: impact;
+}
+nav ul li a:hover{
+background:#0000006b;
+color: #fff;
+}
+h4 {
+	color: gray;
+	text-align: center;
+	font-family: DotumChe;
+} 
+.head {
+	text-align:  center;
+	color: white;
+	font-family: sans-serif;
+}
+.h3 {
+	text-align: center;
+	color: #fff;
+	font-family: sans-serif;
+	padding-top: 2%;
+}
+.form {
+	color: #fff;
+	font-family: DotumChe;
+	text-align: center;
+	size: 7px;
+	padding-top: 9%;
+
+}
+.form div input {
+	background: transparent;
+	border-bottom: solid white;
+	border-top:none;
+	border-right:none;
+	border-left: none;
+	size: 25px;
+	color: #fff;
+	width: 20%;
+	margin: 0.1%;
+	padding-top:1%;
+}
+.form div textarea {
+	background: transparent;
+	border-bottom: solid white;
+	border-top: none;
+	border-right: none;
+	border-left: none;
+	color: #fff;
+	width: 20%;
+}
+.btn {
+	text-align: center;
+	border: 10px solid #000;
+	border-radius: 5px;
+	background: #0098f1;
+
+}
+.body {
+	padding: 0%;
+	margin: 0%;
+	background:#fff49c;
+	background-repeat:no-repeat;
+	background-size:100%;
+}
