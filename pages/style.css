@@ -10,7 +10,7 @@ header {
 	color:#fff;
 	text-align:center;
 	font-family: Algerian;
-	background:url(https://images.app.goo.gl/o7Z2RXvwwMjxwacE8);
+	background: black;
 	display: block;
 	background-repeat: no-repeat;
 	background-size: 100%;
@@ -92,7 +92,7 @@ h4 {
 .body {
 	padding: 0%;
 	margin: 0%;
-	background:#fff49c;
+	background:url(g/bg.JPG);
 	background-repeat:no-repeat;
 	background-size:100%;
 }
